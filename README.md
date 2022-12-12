@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 [<img align="right" width="400" alt="Jérémie's dynamically generated GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jlumbroso&show_icons=true&title_color=598432&icon_color=94AE16&bg_color=ffffff&border_color=598432&text_color=173552"/>](https://github.com/jlumbroso/)
 
-<!--Languages-->
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlumbroso&layout=compact&langs_count=10&title_color=598432&icon_color=94AE16&bg_color=ffffff&border_color=598432&text_color=173552" />
-
 <!--Mastodon verification-->
 <link rel="me" href="https://hci.social/@lumbroso">
 <a href="https://hci.social/@lumbroso">
@@ -52,6 +49,9 @@ Faculty at Princeton University's Department of Computer Science. I love to teac
 - 💬 Ask me about scaling, academic peer review, gamification, centralization/decentralization, capitalism, good software engineering practices, veganism 🐮
 
 ### ⚙️ GitHub Templates for your projects
+
+<!--Languages-->
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlumbroso&layout=compact&langs_count=10&title_color=598432&icon_color=94AE16&bg_color=ffffff&border_color=598432&text_color=173552" />
 
 - ☢️ React Templates
 
