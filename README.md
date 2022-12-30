@@ -48,6 +48,15 @@ Faculty at Princeton University's Department of Computer Science. I love to teac
 - 👯 I’m looking to collaborate on open-source projects, especially that reduce the friction to building
 - 💬 Ask me about scaling, academic peer review, gamification, centralization/decentralization, capitalism, good software engineering practices, veganism 🐮
 
+
+### 🎹 Tools for Musical Digital Humanities
+
+- 🎶 [`imslp`](https://github.com/jlumbroso/imslp): A Python package to query and retrieve scores from the International Music Score Library Project (IMSLP).
+
+- 🎼 [`incipit`](https://github.com/jlumbroso/incipit): A Python package and command line tool to slice a musical score into bars, staves and systems. Was originally designed to extract the first line of each of Domenico Scarlatti's 555 sonatas to create a [searchable catalog with incipit](https://scarlatti.github.io/searchable-sonatas/).
+
+You can also visit the GitHub organization of the [Domenico Scarlatti Foundation](https://github.com/scarlatti).
+
 ### ⚙️ GitHub Templates for your projects
 
 <!--Languages-->
@@ -68,6 +77,8 @@ Faculty at Princeton University's Department of Computer Science. I love to teac
   - https://github.com/jlumbroso/hugo-github-bearblog-template
   - https://github.com/jlumbroso/hugo-theme-bootstrap-skeleton
   - https://github.com/jlumbroso/hugo-apero-github-template
+
+- 📧 [Google Spreadsheet Mail Merge](https://github.com/jlumbroso/google-spreadsheet-mail-merge): An easy-to-use template for no-coders to send mail merges with SendGrid from a list of recipients that is contained in a Google Spreadsheet.
 
 ### 🎲 Probabilistic Algorithms
 
