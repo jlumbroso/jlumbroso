@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </a>
 <br/><br/>
 
-Faculty at Princeton University's Department of Computer Science. I love to teach, to mentor and advise students, to think "at scale", to build stuff open source, and to expand the circle of people who identify as "programmers."
+Faculty at University of Pennsylvania's Department of Computer & Information Sciences. I love to teach, to mentor and advise students, to think "at scale", to build stuff open source, and to expand the circle of people who identify as "programmers."
 
 - 🔭 I’m currently working on music digital humanities project + CS education, code grading/teaching projects
 - 🌱 I’m currently learning TypeScript/React/front-end + machine learning
