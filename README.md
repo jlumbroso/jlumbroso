@@ -30,7 +30,3 @@ Let's be empowered together, and let's build our way out of these collective act
 I believe in us.
 
 🧡
-
-<img width="4096" height="4096" alt="jeremie-thinking-cap" src="https://github.com/user-attachments/assets/a70998bd-c7f6-4ba4-b222-58f9359582bb" />
-
-
