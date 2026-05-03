@@ -30,3 +30,21 @@ Let's be empowered together, and let's build our way out of these collective act
 I believe in us.
 
 🧡
+
+
+## Recommended Services
+
+These are my favorite services because of their scaling formulas that are smooth, their low-costs, and technical excellence — and all have an MCP server (no interface clicking, all LLM delegating):
+
+### Core: Backend-as-a-Service
+
+- **Front-end:** GitHub Pages
+- **Back-end:** [Render](https://render.com/) (main reason for this is [Blueprint](https://render.com/docs/infrastructure-as-code))
+- **Database:** [Neon](https://neon.tech/)
+- **Serverless Data:** [Upstash](https://upstash.com/)
+- **Serverless Back-end:** [Vercel](https://vercel.com/)
+
+### SaaS
+
+- **Domain:** [Spaceship](https://www.spaceship.com/)
+- **Email:** [PostmarkApp](https://postmarkapp.com/)
