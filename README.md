@@ -36,6 +36,10 @@ I believe in us.
 
 These are my favorite services because of their scaling formulas that are smooth, their low-costs, and technical excellence — and all have an MCP server (no interface clicking, all LLM delegating):
 
+### Tooling
+
+- **Just:** https://github.com/casey/just for "Makefile" like
+
 ### Core: Backend-as-a-Service
 
 - **Front-end:** GitHub Pages
