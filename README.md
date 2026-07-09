@@ -52,3 +52,8 @@ These are my favorite services because of their scaling formulas that are smooth
 
 - **Domain:** [Spaceship](https://www.spaceship.com/)
 - **Email:** [PostmarkApp](https://postmarkapp.com/)
+
+### VSCode Extensions
+
+- [**Peacock**](https://github.com/johnpapa/vscode-peacock/) by [@johnpapa](https://github.com/johnpapa/), to distinguish among your dozens of project windows
+- [**Terminals**](https://github.com/fabiospampinato/vscode-terminals) by [@fabiospampinato](https://github.com/fabiospampinato/), to summon your army of terminals/agents
