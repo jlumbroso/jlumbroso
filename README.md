@@ -38,7 +38,7 @@ These are my favorite services because of their scaling formulas that are smooth
 
 ### Tooling
 
-- **Just:** https://github.com/casey/just for "Makefile" like
+- **Just:** https://github.com/casey/just for Rust universal "Makefile" like, this is absolutely the Swiss-army knife you need in the era of LLM-assisted building! I use it for all projects, my only projects that don't have `just` are the ones I haven't work on since discovering `just`!!
 
 ### Core: Backend-as-a-Service
 
@@ -57,3 +57,4 @@ These are my favorite services because of their scaling formulas that are smooth
 
 - [**Peacock**](https://github.com/johnpapa/vscode-peacock/) by [@johnpapa](https://github.com/johnpapa/), to distinguish among your dozens of project windows
 - [**Terminals**](https://github.com/fabiospampinato/vscode-terminals) by [@fabiospampinato](https://github.com/fabiospampinato/), to summon your army of terminals/agents
+
