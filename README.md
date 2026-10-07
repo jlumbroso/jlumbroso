@@ -33,6 +33,7 @@ These are my favorite services because their scaling formulas are smooth, their 
 
 ### Tooling
 
+- **Alacritty:** https://github.com/alacritty/alacritty — cross-platform OpenGL terminal with no tabs and nothing else!
 - **Just:** https://github.com/casey/just — the Rust universal Makefile-alike; absolutely the Swiss-army knife you need in the era of LLM-assisted building! I use it in all my projects — the only ones that don't have `just` are the ones I haven't worked on since discovering it!!
 
 ### Core Stack
@@ -50,5 +51,14 @@ These are my favorite services because their scaling formulas are smooth, their 
 
 ### VSCode Extensions
 
+I work in VSCode most of the day; I am grateful for such a kick-ass editor. I still remember the late 90s when I scored a student license for Visual Studio 6. I had a tumultuous few years, with an extended collaboration with [OmniCore X-develop](https://uwyn.com/xdevelop_review/screenshots.html), [emacs](https://www.gnu.org/software/emacs/), then [PyCharm](https://www.jetbrains.com/pycharm/), but none of those ever felt right the way VSCode feels right.
+
+- [**ADRs for AI Manager**](https://marketplace.visualstudio.com/items?itemName=jlumbroso.adrs4ai), to keep track of my Architectural Deliberation Records, and all my collaborators' inquisitive questions
 - [**Peacock**](https://github.com/johnpapa/vscode-peacock/) by [@johnpapa](https://github.com/johnpapa/), to distinguish among your dozens of project windows
 - [**Terminals**](https://github.com/fabiospampinato/vscode-terminals) by [@fabiospampinato](https://github.com/fabiospampinato/), to summon your army of terminals/agents
+
+#### Screenshots
+
+This is a screenshot of my VSCode window for the [`moreover` project](https://github.com/jlumbroso/moreover), a `less`/`more`-like pager for LLMs, with Ribbon 5 (Claude Fable 5) and Lector 6 (GPT 6 Astra). The terminal also quietly shows something I care about: **inter-vendor coordination** — Lector (via Codex) waking and messaging Ribbon through `pneumatic`, our wake-and-inbox layer, so models from two vendors collaborate on one deliberation record.
+
+![A screenshot of my VSCode setup, with Peacock, the ADRs for AI Manager in the left sidebar, and the two collaborators in the terminal view, Ribbon 5 and Lector 6, of the moreover project.](assets/vscode-adrs4ai-moreover-2026-10-06.png)
