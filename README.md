@@ -8,7 +8,7 @@ I'm Jérémie — I teach computer science and build tools for **thinking with A
 
 ### Currently building
 
-- **[ADRs4AI](https://adrs.systems)** — git-native tooling for **deliberative programming**: your decisions become first-class, compounding artifacts of human-AI collaboration. Start with the [collaboration template](https://github.com/ADRs4AI/human-ai-collaboration-template-A).
+- **[ADRs4AI](https://github.com/ADRs4AI)** ([adrs.systems](https://adrs.systems)) — git-native tooling for **deliberative programming**: your decisions become first-class, compounding artifacts of human-AI collaboration. Start with the [collaboration template](https://github.com/ADRs4AI/human-ai-collaboration-template-A).
 - **Computationally Assisted Metacognition** — a graduate course at Penn on thinking *with* — not through — AI.
 - **[lumbroso.computer](https://lumbroso.computer)** — the hub for everything else.
 
@@ -33,7 +33,8 @@ These are my favorite services because their scaling formulas are smooth, their 
 
 ### Tooling
 
-- **Alacritty:** https://github.com/alacritty/alacritty — cross-platform OpenGL terminal with no tabs and nothing else!
+- **Alacritty:** https://github.com/alacritty/alacritty — cross-platform OpenGL terminal with tabs and nothing else!
+- **MonoLisa Code:** https://www.monolisa.dev/ — the font I read terminals in, 10–12 hours on many days: shaped to be exquisitely non-ambiguous, and a touch wide — which, on today's very wide screens, makes long reading genuinely easier. It's the typeface my AI collaborators and I talk in!
 - **Just:** https://github.com/casey/just — the Rust universal Makefile-alike; absolutely the Swiss-army knife you need in the era of LLM-assisted building! I use it in all my projects — the only ones that don't have `just` are the ones I haven't worked on since discovering it!!
 
 ### Core Stack
@@ -56,6 +57,7 @@ I work in VSCode most of the day; I am grateful for such a kick-ass editor. I st
 - [**ADRs for AI Manager**](https://marketplace.visualstudio.com/items?itemName=jlumbroso.adrs4ai), to keep track of my Architectural Deliberation Records, and all my collaborators' inquisitive questions
 - [**Peacock**](https://github.com/johnpapa/vscode-peacock/) by [@johnpapa](https://github.com/johnpapa/), to distinguish among your dozens of project windows
 - [**Terminals**](https://github.com/fabiospampinato/vscode-terminals) by [@fabiospampinato](https://github.com/fabiospampinato/), to summon your army of terminals/agents
+- [**Porthole**](https://jlumbroso.github.io/porthole/) — pop any page out of VS Code into a small, always-on-top floating window; built for the review boards and step-by-steps my AI collaborators put in front of me. On the [Marketplace](https://marketplace.visualstudio.com/items?itemName=jlumbroso.porthole) and [Open VSX](https://open-vsx.org/extension/jlumbroso/porthole).
 
 #### Screenshots
 
